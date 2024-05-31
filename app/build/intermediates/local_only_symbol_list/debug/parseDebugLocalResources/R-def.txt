@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id button2
+id imageView
+id main
+layout activity_forgetpass
+layout activity_login
+layout activity_loginasadmin
+layout activity_loginasuser
+layout activity_main
+layout activity_registration
+layout activity_resetpass
+layout activity_splash
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme._4thSemisterProject
+style Theme._4thSemisterProject
+xml backup_rules
+xml data_extraction_rules
